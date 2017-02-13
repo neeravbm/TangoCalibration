@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TangoCalibration</string>
+    <string name="click_photo_button_label">Click!</string>
+</resources>
